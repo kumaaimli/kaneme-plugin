@@ -1,0 +1,13 @@
+{
+  "name": "kaneme",
+  "displayName": "Kaneme",
+  "description": "Your writing identity, measured and portable: build a voice from your own texts, check whether a text still sounds like you, then write in it.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Kaneme",
+    "url": "https://kaneme.com"
+  },
+  "homepage": "https://kaneme.com/en/developers/mcp",
+  "license": "MIT",
+  "keywords": ["writing", "voice", "authorship", "style", "measurement"]
+}

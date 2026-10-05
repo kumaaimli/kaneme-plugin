@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "kaneme": {
+      "type": "http",
+      "url": "https://kaneme.com/api/mcp",
+      "oauth": {
+        "callbackPort": 33418
+      }
+    }
+  }
+}

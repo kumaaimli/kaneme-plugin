@@ -1,0 +1,17 @@
+{
+  "name": "kaneme",
+  "owner": {
+    "name": "Kaneme",
+    "email": "info@kaneme.com"
+  },
+  "metadata": {
+    "description": "The official Kaneme plugin: your writing voice in Claude."
+  },
+  "plugins": [
+    {
+      "name": "kaneme",
+      "source": "./",
+      "description": "Your writing identity, measured and portable: build a voice from your own texts, check whether a text still sounds like you, then write in it."
+    }
+  ]
+}
